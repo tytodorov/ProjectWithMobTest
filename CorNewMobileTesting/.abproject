@@ -1,0 +1,25 @@
+{
+  "ProjectName": "CorNewMobileTesting",
+  "ProjectGuid": "e8fce479-4df5-4e93-8767-6627aec8a1fc",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.CorNewMobileTesting",
+  "DisplayName": "CorNewMobileTesting",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+	"2"
+  ],
+  "iOSBackgroundMode": [],
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "",
+  "WP8ProductID": "",
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "Framework": "MobileTesting",
+  "FrameworkVersion": "1.0"
+}
